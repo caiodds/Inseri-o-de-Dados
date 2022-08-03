@@ -1,1 +1,0 @@
-# Inseri-o-de-Dados
