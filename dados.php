@@ -1,4 +1,4 @@
-<?php//Aqui é onde faço á conexão co banco de dados(Local)
+<?php//Aqui é onde faço á conexão com banco de dados(Local)
 $host = 'Localhost';
 $user = 'root';
 $senha = '';
